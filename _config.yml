@@ -3,9 +3,9 @@
 # Site wide configuration
 ####################################
 #
-title: Elise Jing
+title: Blackbird
 email:
-description: Profile & blog
+description: 
 url: 
 
 #
@@ -32,13 +32,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Elise Jing  
+  name: Blackbird 
   # avatar: leonids-logo.png
   job: 
-  bio: "Ph.D. student in complex systems. Skeptical advocate of science, agnostic, part-time nihilist."
+  bio: "Reads and travels."
   email:
-  disqus-shortname: "ejing"
-  twitter: cm_blackbird
+  disqus-shortname: "blabckbird"
+  twitter: 
   facebook: #username
   google:
     plus: #username
@@ -47,10 +47,10 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: yzjing
+  github: 
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: yzjing
+  linkedin: 
   skype: #username
   xing: #username
   instagram: #username
