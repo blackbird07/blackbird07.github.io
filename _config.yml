@@ -5,7 +5,7 @@
 #
 title: Blackbird
 email:
-description: 我曾远渡重洋，踏上许多地方，见过一个女人和两三个男人
+description: 
 url: 
 
 #
@@ -35,7 +35,7 @@ owner:
   name: Blackbird 
   # avatar: leonids-logo.png
   job: 
-  bio: 
+  bio: 我曾远渡重洋，踏上许多地方，见过一个女人和两三个男人
   email:
   disqus-shortname: "ejing"
   twitter: 
